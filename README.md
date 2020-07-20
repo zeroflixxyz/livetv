@@ -34,12 +34,12 @@ Or select one of the playlists from the list below.
 		</tr>
 		<tr>
 		<td align="left">VOD</td>
-		<td align="right">Unknwon</td>
+		<td align="right">Unknown</td>
 		<td align="left"><code>https://zerolivetv.netlify.app/livetv/vod.m3u</code></td>
 		</tr>	
 		<tr>
 		<td align="left">TV Series</td>
-		<td align="right">Unknwon</td>
+		<td align="right">Unknown</td>
 		<td align="left"><code>https://zerolivetv.netlify.app/livetv/tvseries.m3u</code></td>
 		</tr>
 	</tbody>
