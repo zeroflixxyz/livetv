@@ -52,11 +52,11 @@ In addition to the above methods, you can also get a list of all available chann
 
 To do this, you just have to make a GET request to:
 
-```
+
 - `https://zerolivetv.netlify.app/livetv/playlist.json` (grouped by all country)
 - `https://zerolivetv.netlify.app/livetv/vod.json` (grouped by movies)
 - `https://zerolivetv.netlify.app/livetv/tvseries.json` (grouped by tv series)
-```
+
 
 If successful, you should get the following response:
 
