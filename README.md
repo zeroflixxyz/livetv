@@ -1,7 +1,7 @@
 # livetv
 M3U File Example: <br>
 ---------------------------------
-#EXTM3U
+#EXTM3U<br>
 #EXTINF:-1,TV Name<br>
 http://www.someaddress.com/live/user/pass/file_11223344.m3u8<br>
 #EXTINF:-1,TV Name<br>
