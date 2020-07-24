@@ -390,6 +390,7 @@
             "name": "POGO",
             "logo": "pogo.png",
             "url": [
+				"http://indtv.online/Pogo_Hindi.m3u8",
                 "http://202.163.117.6:9981/stream/channelid/872564616"				
             ]
         },
@@ -509,6 +510,7 @@
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
+				"http://indtv.online/Zee_Cinema.m3u8",
 				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
 				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1000"
@@ -520,6 +522,7 @@
             "url": [
                 "http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8",
 				"http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8",
+				"http://indtv.online/And_Pictures_HD.m3u8",
 				"http://103.205.133.14/hls/andpicture.m3u8",
 				"https://watchindia.net:8443/live/52296/16834/783.ts"
             ]
@@ -537,7 +540,15 @@
             "logo": "andtv-hd.png",
             "url": [
                 "http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8",
+				"http://indtv.online/And_TV_HD.m3u8",
 				"https://watchindia.net:8443/live/52296/16834/782.ts"
+            ]
+        },
+		{
+            "name": "Zee Anmol",
+            "logo": "zee_anmol.png",
+            "url": [                
+				"http://indtv.online/Zee_Anmol.m3u8"
             ]
         },
 		{
@@ -546,6 +557,7 @@
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
+				"http://indtv.online/Zee_Classic.m3u8",
 				"https://watchindia.net:8443/live/52296/16834/822.ts",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/614"
             ]
@@ -562,6 +574,7 @@
             "name": "Sony Max",
             "logo": "sony_max.png",
             "url": [
+				"http://indtv.online/SonyMaxSD.m3u8",
                 "https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
             ]
@@ -570,7 +583,7 @@
             "name": "Sony Max HD",
             "logo": "sonymaxhd.png",
             "url": [
-                "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
+                "http://indtv.online/Sony_Max_HD.m3u8",
 				"https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"https://watchindia.net:8443/live/52296/16834/788.ts",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1366",
@@ -581,6 +594,7 @@
             "name": "Sony Max 2",
             "logo": "sony_max2.png",
             "url": [
+				"http://indtv.online/Sony_MAX2.m3u8",
                 "https://watchindia.net:8443/live/52296/16834/2024.ts",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/602"
             ]
@@ -589,6 +603,7 @@
             "name": "Sony WAH",
             "logo": "sony_wah.png",
             "url": [
+				"http://indtv.online/SonyWah.m3u8",
                 "https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15",
 				"https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15"
             ]
@@ -597,6 +612,7 @@
             "name": "Sony PIX",
             "logo": "sony_pix.png",
             "url": [
+				"http://indtv.online/Sony_Pix_HD.m3u8",
                 "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1062"
@@ -607,6 +623,7 @@
             "logo": "sony_pal.png",
             "url": [
                 "https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8",
+				"http://indtv.online/Sony_Pal.m3u8",
 				"https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
             ]
         },
@@ -624,6 +641,13 @@
             "url": [
                 "https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8",
 				"https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
+            ]
+        },
+		{
+            "name": "Sony Sab",
+            "logo": "sony_sab.png",
+            "url": [                
+				"http://indtv.online/Sony_SAB.m3u8"
             ]
         },
 		{
@@ -651,6 +675,13 @@
             ]
         },
 		{
+            "name": "BFLIX Movies",
+            "logo": "bflix_movies.png",
+            "url": [
+                "http://indtv.online/Bflix_Movies.m3u8"				
+            ]
+        },
+		{
             "name": "DHAMAL",
             "logo": "dhamal.png",
             "url": [                
@@ -662,7 +693,15 @@
             "logo": "maha_movies.png",
             "url": [
                 "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8",				
-				"https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"
+				"http://indtv.online/Maha_Movies.m3u8"
+            ]
+        },
+		{
+            "name": "Houseful MOVIES",
+            "logo": "houseful_movies.png",
+            "url": [
+                "http://indtv.online/Housefull_Movies.m3u8",				
+				"http://indtv.online/Housefull_Movies.m3u8"
             ]
         },
 		{
@@ -692,6 +731,7 @@
             "name": "& PRIVE HD",
             "logo": "and-prive.png",
             "url": [
+				"http://indtv.online/0-9-privehd.m3u8",
                 "http://103.214.202.218:8081/live/andprive-28/chunks.m3u8"
 				
             ]
@@ -748,6 +788,7 @@
             "name": "Discovery HD",
             "logo": "discovery_hd.png",
             "url": [
+				"http://indtv.online/Discovery.m3u8",
                 "https://watchindia.net:8443/live/52296/16834/841.ts"
 				
             ]
@@ -756,7 +797,9 @@
             "name": "Animal Planet",
             "logo": "animal_planet.png",
             "url": [
-                "http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8"
+                "http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8",
+				"http://indtv.online/Animal_Planet_HD.m3u8",
+				"http://indtv.online/Animal_Planet_Hindi.m3u8"
 				
             ]
         },
@@ -829,6 +872,7 @@
             "name": "HBO HD",
             "logo": "hbohd.png",
             "url": [
+				"http://indtv.online/HBO_HD.m3u8",
                 "https://watchindia.net:8443/live/52296/16834/2081.ts",
 				"https://watchindia.net:8443/live/52296/16834/2081.ts"
             ]
@@ -839,8 +883,17 @@
             "url": [
                 "http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8",
 				"http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8",
+				"http://indtv.online/Zee_Action.m3u8",
 				"https://watchindia.net:8443/live/52296/16834/821.ts",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/730"
+            ]
+        },
+		{
+            "name": "Zee Anmol Cinema",
+            "logo": "zee_anmol_cinema.png",
+            "url": [
+                "http://indtv.online/Zee_Anmol_Cinema.m3u8",
+				"http://indtv.online/Zee_Anmol_Cinema.m3u8"
             ]
         },
 		{
@@ -889,6 +942,7 @@
             "url": [
                 "http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8",
 				"http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8",
+				"http://indtv.online/Zee_Cinema_HD.m3u8",
 				"https://watchindia.net:8443/live/52296/16834/787.ts"
             ]
         },
@@ -897,6 +951,13 @@
             "logo": "ndtv.png",
             "url": [
                 "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"				
+            ]
+        },
+		{
+            "name": "Entert 10",
+            "logo": "enter10.png",
+            "url": [
+                "http://indtv.online/Enterr_10.m3u8"				
             ]
         },
 		{
@@ -934,6 +995,7 @@
             "logo": "b4umovies.png",
             "url": [
                 "http://103.205.133.14/hls/b4umovies.m3u8",
+				"http://indtv.online/B4U_Movies.m3u8",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/607"				
             ]
         },
@@ -949,7 +1011,7 @@
             "logo": "zeetv.png",
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
+				"http://indtv.online/Zee_TV_HD.m3u8",
 				"https://watchindia.net:8443/live/52296/16834/1970.ts",
 				"https://watchindia.net:8443/live/52296/16834/1971.ts"
             ]
@@ -959,8 +1021,16 @@
             "logo": "manaranjan_movie.png",
             "url": [
 				"https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8",
+				"http://indtv.online/Manoranjan_Movies.m3u8",
                 "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8",
 				"https://watchindia.net:8443/live/52296/16834/804.ts"				
+            ]
+        },
+		{
+            "name": "Rishtey Cineplex",
+            "logo": "rishtey_cineplex.png",
+            "url": [
+				"http://indtv.online/Rishtey_Cineplex.m3u8"								
             ]
         },
 		{
@@ -990,6 +1060,13 @@
             "logo": "sakkat.png",
             "url": [                
 				"https://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8"
+            ]
+        },
+		{
+            "name": "Mastiii",
+            "logo": "mastiii.png",
+            "url": [                
+				"http://indtv.online/Mastiii.m3u8"
             ]
         },
 		{
@@ -1131,7 +1208,8 @@
             "name": "Colors Infinity",
             "logo": "colors-infinity.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8"
+                "https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8",
+				"http://indtv.online/Colors_Infinity_HD.m3u8"
 				
             ]
         },
