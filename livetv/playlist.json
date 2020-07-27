@@ -254,6 +254,7 @@
             "name": "N TV",
             "logo": "ntv.png",
             "url": [
+				"http://103.141.66.36/bpk-tv/10029/default/index.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8.zeroflix.m3u8"
 				
             ]
