@@ -76,6 +76,7 @@
             "logo": "jamunatv.png",
             "url": [
                 "http://103.214.202.218:8081/live/jamuna/chunks.m3u8",
+				"https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
 				"http://103.214.202.218:8081/live/jamuna/chunks.m3u8"
             ]
         },
@@ -492,16 +493,13 @@
             ]
         },
 		{
-            "name": "STAR GOLD",
+            "name": "STAR GOLD HD",
             "logo": "star-gold.png",
             "url": [
                 "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
-				"https://watchindia.net:8443/live/78232/32496/785.ts",
-				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/604",
-				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/605",
-				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/946"
+				"https://watchindia.net:8443/live/78232/32496/785.ts"				
             ]
         },
 		{

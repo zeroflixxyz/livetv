@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://indtv.online/And_TV_HD.m3u8
+http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8
