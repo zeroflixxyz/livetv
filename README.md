@@ -6,7 +6,7 @@ Internet Protocol television (IPTV) is the delivery of television content over I
 
 To watch IPTV you just need to paste this link `https://zerolivetv.netlify.app/livetv/playlist.m3u` to any player with support M3U-playlists.
 
-![VLC Network Panel](screenshots/preview.png)
+![Zeroflix](screenshots/preview.png)
 
 Also you can instead use one of these playlists:
 
