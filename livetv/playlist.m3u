@@ -101,6 +101,33 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/deshe_bideshe.m
 #EXTINF:-1 tvg-name="Joy Jatra TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/joyjatra_tv.png",Joy Jatra TV
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/joy_jatra_tv.m3u8
 
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/star_jalsha_hd.png",Star Jalsha HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_jalsha_hd.m3u8
+
+#EXTINF:-1 tvg-name="Jalsha Movies" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/jalsha_movies.png",Jalsha Movies
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/jalsha_movies.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/zee_bangla.png",Zee Bangla
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_bangla.m3u8
+
+#EXTINF:-1 tvg-name="Colors Bangla" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/colors_bangla.png",Colors Bangla
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/colors_bangla.m3u8
+
+#EXTINF:-1 tvg-name="DD Bangla" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/dd_bangla.png",DD Bangla
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/dd_bangla.m3u8
+
+#EXTINF:-1 tvg-name="Dhoom Music" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/dhoom_music.png",Dhoom Music
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/dhoom_music.m3u8
+
+#EXTINF:-1 tvg-name="Colors Bangla HD" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/colors_bangla_hd.png",Colors Bangla HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/colors_bangla_hd.m3u8
+
+#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/sangeet_bangla.png",Sangeet Bangla
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sangeet_bangla.m3u8
+
+#EXTINF:-1 tvg-name="Colors HD" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/colors_hd.png",Colors HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/colors_hd.m3u8
+
 #EXTINF:-1 tvg-name="Star Gold" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/star_gold.png",Star Gold
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_gold.m3u8
 
@@ -133,6 +160,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sony_max.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/sony_max_hd.png",Sony Max HD
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sony_max_hd.m3u8
+
+#EXTINF:-1 tvg-name="9XM" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/9xm.png",9XM
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/9xm.m3u8
 
 #EXTINF:-1 tvg-name="Filmax" tvg-id="General" group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/filmax.png",Filmax
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/filmax.m3u8
