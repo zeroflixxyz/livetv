@@ -521,6 +521,8 @@
             "url": [
                 "http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8",
 				"http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8",
+				"https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
+				"http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
 				"http://indtv.online/And_Pictures_HD.m3u8",
 				"http://103.205.133.14/hls/andpicture.m3u8",
 				"https://watchindia.net:8443/live/43935/53512/783.ts"
@@ -573,7 +575,7 @@
             "name": "Sony Max",
             "logo": "sony_max.png",
             "url": [
-				"http://indtv.online/SonyMaxSD.m3u8",
+				"http://otv.ftpbd.net/streams/109/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
                 "https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
             ]
@@ -949,6 +951,7 @@
             "url": [
                 "http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8",
 				"http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8",
+				"http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
 				"http://indtv.online/Zee_Cinema_HD.m3u8",
 				"https://watchindia.net:8443/live/43935/53512/787.ts"
             ]
