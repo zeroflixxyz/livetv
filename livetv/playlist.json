@@ -120,6 +120,7 @@
             "name": "MOHONA TV",
             "logo": "mohonatv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/mohona_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8"
@@ -129,6 +130,7 @@
             "name": "MY TV",
             "logo": "mytv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/my_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10333/default/manifest.mpd"
@@ -138,6 +140,7 @@
             "name": "DURONTO TV",
             "logo": "durontotv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/duronto_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8"
             ]
@@ -146,6 +149,7 @@
             "name": "CHANNEL I",
             "logo": "channeli.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channeli.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
 				"http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8"
@@ -155,6 +159,7 @@
             "name": "GAAN BANGLA",
             "logo": "gannbangla.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gaan_bangla.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8",
 				"http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8"
 			]
@@ -163,6 +168,7 @@
             "name": "SOMOY NEWS",
             "logo": "somoytv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/somoy_news.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8",
 				"http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8"
 				
@@ -172,6 +178,7 @@
             "name": "INDEPENDENT TV",
             "logo": "independent.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/independent_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
 				"http://103.205.133.14/hls/independent.m3u8"
@@ -181,6 +188,7 @@
             "name": "ATN NEWS",
             "logo": "atnnews.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/atn_news.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8"
             ]
@@ -189,6 +197,7 @@
             "name": "BOISHAKHI TV",
             "logo": "boishakhitv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/boishakhi_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8"
@@ -198,6 +207,7 @@
             "name": "R TV",
             "logo": "rtv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/rtv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8",
 				"http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8"
