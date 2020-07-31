@@ -29,6 +29,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/dbc_news.m3u8
 #EXTINF:-1 tvg-name="CHANNEL 24" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/channel24.png",CHANNEL 24
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel24.m3u8
 
+#EXTINF:-1 tvg-name="News 24" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/news24.png",News 24
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/news24.m3u8
+
 #EXTINF:-1 tvg-name="JAMUNA TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/jamunatv.png",JAMUNA TV
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/jamuna_tv.m3u8
 
@@ -113,6 +116,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/jalsha_movies.m
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/zee_bangla.png",Zee Bangla
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_bangla.m3u8
 
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/zee_bangla_cinema.png",Zee Bangla cinema
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_bangla_cinema.m3u8
+
 #EXTINF:-1 tvg-name="Colors Bangla" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/colors_bangla.png",Colors Bangla
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/colors_bangla.m3u8
 
@@ -193,3 +199,6 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gusto_tv.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/fashion_tv.png",Fashion TV
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/fashion_tv.m3u8
+
+#EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="Movies" tvg-logo="https://www.india.com/wp-content/uploads/2020/06/dil-bechara.jpg",Dil Bechara
+https://zerodirect.herokuapp.com/file/0a40d2dd96be45ee01160c0596cf92b4e68276430e2ff1f496217bb4dba666f228403dc47e6c38bac6684e5ac32f0f4b560cb654dc9839d9c9145cfdf60a3dabSygzeMXL8cF7_ZUmvA5F5DAa_EfgMYw4GfT1IiIjeHY3eFPXQciHp39NhtwAv2S5q_xAxM3jCcw3NNcoQ3ZDqQ--?dl=3
