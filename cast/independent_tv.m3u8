@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 http://103.205.133.14/hls/independent.m3u8
