@@ -224,6 +224,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sony_max_hd.m3u
 #EXTINF:-1 tvg-name="9XM" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/9xm.png",9XM
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/9xm.m3u8
 
+#EXTINF:-1 tvg-name="Shemaroo Kids" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/shemaroo_kids.png",shemaroo Kids
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/shemaroo_kids.m3u8
+
 #EXTINF:-1 tvg-name="Filmax" tvg-id="General" group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/filmax.png",Filmax
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/filmax.m3u8
 
