@@ -403,10 +403,10 @@
             ]
         },
 		{
-            "name": "NRB HD",
+            "name": "NRB TV",
             "logo": "nrb_tv.png",
             "url": [
-				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nrb_hd.m3u8",
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nrb_tv.m3u8",
                 "http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8"				
             ]
         },
@@ -414,6 +414,7 @@
             "name": "BTV",
             "logo": "btv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/btv_bd.m3u8",
                 "http://103.205.133.14/hls/btv.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10330/default/manifest.mpd?=.m3u8"
@@ -421,8 +422,9 @@
         },
 		{
             "name": "BTV WORLD",
-            "logo": "btv.png",
+            "logo": "btv_world.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/btv_world.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8"
@@ -432,6 +434,7 @@
             "name": "Sangsad TV",
             "logo": "sangsad_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sangsad_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10036/default/manifest.mpd"
             ]
