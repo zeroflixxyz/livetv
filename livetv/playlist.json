@@ -443,6 +443,7 @@
             "name": "Nick Bangla",
             "logo": "nick_bangla.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nick_bangla.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8"				
             ]
         },
@@ -450,6 +451,7 @@
             "name": "Nick HD",
             "logo": "nick_hd.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nick_hd.m3u8",
                 "https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8"				
             ]
         },
@@ -457,6 +459,7 @@
             "name": "POGO",
             "logo": "pogo.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/pogo.m3u8",
 				"http://indtv.online/Pogo_Hindi.m3u8",
                 "http://202.163.117.6:9981/stream/channelid/872564616"				
             ]
