@@ -294,6 +294,7 @@
             "name": "BANGLA VISION",
             "logo": "banglavision.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/bangla_vision.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8",
 				"http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8"
             ]
@@ -302,6 +303,7 @@
             "name": "N TV",
             "logo": "ntv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ntv.m3u8",
 				"http://103.141.66.36/bpk-tv/10029/default/index.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8.zeroflix.m3u8"
 				
@@ -311,6 +313,7 @@
             "name": "DESH TV",
             "logo": "deshtv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/desh_tv.m3u8",
 				"http://103.141.66.36/bpk-tv/10038/default/manifest.mpd",
                 "http://103.205.133.14/hls/deshtv.m3u8"
 				
@@ -320,6 +323,7 @@
             "name": "Royal TV",
             "logo": "royal_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/royal_tv.m3u8",
                 "http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8"
 				
             ]
@@ -328,6 +332,7 @@
             "name": "MY CINEMA BD",
             "logo": "my_cinema_bd.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/my_cinema_bd.m3u8",
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8"
 				
             ]
@@ -336,6 +341,7 @@
             "name": "Deshe Bideshe",
             "logo": "deshe_bideshe.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/deshe_bideshe.m3u8",
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8"
 				
             ]
@@ -344,6 +350,7 @@
             "name": "Joy Jatra TV",
             "logo": "joyjatra_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/joy_jatra_tv.m3u8",
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8"				
             ]
         },
@@ -351,6 +358,7 @@
             "name": "ALIF TV",
             "logo": "alif_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/alif_tv.m3u8",
                 "http://128.199.212.160/alif/1080/index.m3u8"				
             ]
         },
@@ -358,6 +366,7 @@
             "name": "Channel T1",
             "logo": "channel_t1.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel_t1.m3u8",
                 "http://128.199.212.160/channelt1/1080/index.m3u8"				
             ]
         },
@@ -365,6 +374,7 @@
             "name": "Channel S",
             "logo": "channel_s.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel_s.m3u8",
                 "https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8"				
             ]
         },
@@ -372,6 +382,7 @@
             "name": "Nokshi TV",
             "logo": "nokshi_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nokshi_tv.m3u8",
                 "http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8"				
             ]
         },
@@ -379,6 +390,7 @@
             "name": "NAN TV",
             "logo": "nan_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nan_tv.m3u8",
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8"				
             ]
         },
@@ -386,6 +398,7 @@
             "name": "Varendra TV",
             "logo": "varendra_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/varendra_tv.m3u8",
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8"				
             ]
         },
@@ -393,6 +406,7 @@
             "name": "NRB HD",
             "logo": "nrb_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nrb_hd.m3u8",
                 "http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8"				
             ]
         },
