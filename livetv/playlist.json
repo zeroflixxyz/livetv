@@ -240,6 +240,7 @@
             "name": "ATN BANGLA",
             "logo": "atnbangla.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/atn_bangla.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8"
             ]
@@ -248,6 +249,7 @@
             "name": "ATN ISLAM",
             "logo": "atn_islamic_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/atn_islam.m3u8",
                 "http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8"				
             ]
         },
@@ -255,6 +257,7 @@
             "name": "CHANNEL 9",
             "logo": "channel9.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel9.m3u8",
 				"http://103.141.66.36/bpk-tv/10080/default/manifest.mpd?=.m3u8",
                 "http://103.214.202.218:8081/live/channel9-15/chunks.m3u8"
 				
@@ -264,6 +267,7 @@
             "name": "EKUSHE TV",
             "logo": "ekusheytv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ekushey_tv.m3u8",
 				"http://103.141.66.36/bpk-tv/10006/default/manifest.mpd",
                 "http://103.205.133.19/hls/ekushey.m3u8"			
 				
@@ -273,6 +277,7 @@
             "name": "BIJOY TV",
             "logo": "bijoytv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/bijoy_tv.m3u8",
                 "http://103.135.208.14/live/ibox/bd/30.m3u8"
 				
             ]
@@ -281,6 +286,7 @@
             "name": "Shopno TV",
             "logo": "shopno_tv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/shopno_tv.m3u8",
                 "http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8"				
             ]
         },
