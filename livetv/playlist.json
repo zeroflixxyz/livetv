@@ -20,6 +20,7 @@
             "name": "GAZI TV",
             "logo": "gtv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gazi_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
             ]
@@ -28,6 +29,7 @@
             "name": "MAASRANGA TV",
             "logo": "maasranga.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/maasranga_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8"
             ]
@@ -36,6 +38,7 @@
             "name": "DEEPTO TV",
             "logo": "deeptotv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/deepto_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8",
 				"http://103.205.133.14/hls/deeptotv.m3u8"
             ]
@@ -44,6 +47,7 @@
             "name": "ASIAN TV",
             "logo": "asiantv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/asian_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8"
             ]
@@ -52,6 +56,7 @@
             "name": "SA TV",
             "logo": "satv-bd.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sa_tv.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8"
             ]
@@ -60,6 +65,7 @@
             "name": "DBC NEWS",
             "logo": "dbcnews.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/dbc_news.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8"				
             ]
         },
@@ -67,14 +73,23 @@
             "name": "CHANNEL 24",
             "logo": "channel24.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel24.m3u8",
                 "https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8",
 				"http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8"
+            ]
+        },
+		{
+            "name": "news 24",
+            "logo": "news24.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/news24.m3u8"                
             ]
         },
 		{
             "name": "JAMUNA TV",
             "logo": "jamunatv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/jamuna_tv.m3u8",
                 "http://103.214.202.218:8081/live/jamuna/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
 				"http://103.214.202.218:8081/live/jamuna/chunks.m3u8"
@@ -84,6 +99,7 @@
             "name": "EKATTOR TV",
             "logo": "ekattortv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ekattor_tv.m3u8",
 				"http://tv-cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8",
                 "http://ctgiptv.kitv.live:1935/live/test/test1/11.ts",
 				"http://ctgiptv.kitv.live:1935/live/test/test1/11.ts"
@@ -94,6 +110,7 @@
             "name": "NAGORIK TV",
             "logo": "nagoriktv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nagorik_tv.m3u8",
 				"http://103.141.66.36/bpk-tv/10451/default/manifest.mpd",
                 "https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
 				"https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8"
