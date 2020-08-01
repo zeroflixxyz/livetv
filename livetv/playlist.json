@@ -75,15 +75,15 @@
             "logo": "channel24.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel24.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8",
-				"http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8"
+                "https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8"				
             ]
         },
 		{
             "name": "news 24",
             "logo": "news24.png",
             "url": [
-				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/news24.m3u8"                
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/news24.m3u8",
+				"http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8"
             ]
         },
 		{
