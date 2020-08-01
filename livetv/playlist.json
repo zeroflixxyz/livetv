@@ -507,13 +507,11 @@
             ]
         },
 		{
-            "name": "Cartoon Network HD",
+            "name": "Cartoon Network",
             "logo": "cartoonnetwork.png",
             "url": [
                 "http://luckonline.eu:8080/PRdAgsQRF5/0117589321/752",
-				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/1128",
-				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/458",
-				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/2707"
+				"https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8"				
             ]
         },
 		{

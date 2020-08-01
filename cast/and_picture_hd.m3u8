@@ -2,4 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 http://103.205.133.14/hls/andpicture.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
