@@ -161,6 +161,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_jalsha_hd.
 #EXTINF:-1 tvg-name="Star Jalsha" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/star_jalsha.png",Star Jalsha
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_jalsha.m3u8
 
+#EXTINF:-1 tvg-name="Ananda TV" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/ananda_tv.png",Ananda TV
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ananda_tv.m3u8
+
 #EXTINF:-1 tvg-name="Jalsha Movies" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/jalsha_movies.png",Jalsha Movies
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/jalsha_movies.m3u8
 
@@ -221,6 +224,18 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_picture_hd.
 #EXTINF:-1 tvg-name="B4U Movies" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/b4u_movies.png",B4U Movies
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/b4u_movies.m3u8
 
+#EXTINF:-1 tvg-name="B4U Music" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/b4u_music.png",B4U Music
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/b4u_music.m3u8
+
+#EXTINF:-1 tvg-name="Zoom" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/zoom.png",Zoom
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zoom.m3u8
+
+#EXTINF:-1 tvg-name="Dilse" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/dilse.png",Dilse
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/dilse.m3u8
+
+#EXTINF:-1 tvg-name="Zing" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/zing.png",Zing
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zing.m3u8
+
 #EXTINF:-1 tvg-name="Manaranjan Movies" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/manaranjan_movies.png",Manaranjan Movies
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/manaranjan_movies.m3u8
 
@@ -260,8 +275,20 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_movies_sel
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/star_movies_hd.png",Star Movies HD
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_movies_hd.m3u8
 
+#EXTINF:-1 tvg-name="Star World" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/star_world.png",Star world
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_world.m3u8
+
 #EXTINF:-1 tvg-name="Pogo" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/pogo.png",pogo
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/pogo.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/history.png",History
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/history.m3u8
+
+#EXTINF:-1 tvg-name="History HD" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/history_hd.png",History HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/history_hd.m3u8
+
+#EXTINF:-1 tvg-name="Fox Life" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/fox_life.png",Fox Life
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/fox_life.m3u8
 
 #EXTINF:-1 tvg-name="Ditty TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/ditty_tv.png",Ditty TV
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ditty_tv.m3u8
