@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
