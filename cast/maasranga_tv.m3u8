@@ -1,5 +1,6 @@
-﻿#EXTM3U
+#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://103.84.253.5/live/fastfeed1006/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 http://103.141.66.36/bpk-tv/10154/default/index.m3u8
