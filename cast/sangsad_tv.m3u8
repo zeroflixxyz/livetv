@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 http://103.141.66.36/bpk-tv/10036/default/index.m3u8
-http://103.141.66.36/bpk-tv/10036/default/manifest.mpd
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8

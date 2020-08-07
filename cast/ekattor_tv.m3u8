@@ -3,3 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 http://tv-cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8

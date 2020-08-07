@@ -21,8 +21,8 @@
             "logo": "gtv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gazi_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
             ]
         },
 		{
@@ -30,8 +30,8 @@
             "logo": "maasranga.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/maasranga_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8"
             ]
         },
 			{
@@ -41,7 +41,7 @@
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/deepto_tv.m3u8",                
 				"http://103.141.66.36/bpk-tv/10455/default/index.m3u8",
 				"http://103.205.133.14/hls/deeptotv.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8"
+				"https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8"
             ]
         },
 		{
@@ -49,8 +49,8 @@
             "logo": "asiantv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/asian_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8"
             ]
         },
 		{
@@ -58,7 +58,7 @@
             "logo": "satv-bd.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sa_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8"
             ]
         },
@@ -67,7 +67,7 @@
             "logo": "dbcnews.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/dbc_news.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8"				
+                "https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8"				
             ]
         },
 		{
@@ -75,7 +75,7 @@
             "logo": "channel24.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel24.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8"				
+                "https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8"				
             ]
         },
 		{
@@ -92,7 +92,7 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/jamuna_tv.m3u8",
                 "http://103.214.202.218:8081/live/jamuna/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8",
 				"http://103.214.202.218:8081/live/jamuna/chunks.m3u8"
             ]
         },
@@ -113,8 +113,8 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nagorik_tv.m3u8",
 				"http://103.141.66.36/bpk-tv/10451/default/manifest.mpd",
-                "https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8"
             ]
         },
 		{
@@ -122,8 +122,8 @@
             "logo": "mohonatv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/mohona_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8"
             ]
         },
@@ -132,8 +132,8 @@
             "logo": "mytv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/my_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10333/default/manifest.mpd"
             ]
         },
@@ -142,8 +142,8 @@
             "logo": "durontotv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/duronto_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8"
             ]
         },
 		{
@@ -151,8 +151,8 @@
             "logo": "channeli.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channeli.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8",
 				"http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8"
             ]
         },
@@ -161,7 +161,7 @@
             "logo": "gannbangla.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gaan_bangla.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8",
 				"http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8"
 			]
         },
@@ -170,7 +170,7 @@
             "logo": "somoytv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/somoy_news.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8",
 				"http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8"
 				
             ]
@@ -180,8 +180,8 @@
             "logo": "independent.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/independent_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8",
 				"http://103.205.133.14/hls/independent.m3u8"
             ]
         },
@@ -190,8 +190,8 @@
             "logo": "atnnews.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/atn_news.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8"
             ]
         },
 		{
@@ -199,8 +199,8 @@
             "logo": "boishakhitv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/boishakhi_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8"
             ]
         },
@@ -209,9 +209,9 @@
             "logo": "rtv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/rtv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8",
 				"http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8"
+				"https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8"
             ]
         },
 		{
@@ -242,8 +242,9 @@
             "logo": "atnbangla.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/atn_bangla.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8",
+				"http://103.141.66.36/bpk-tv/10009/default/index.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8"
             ]
         },
 		{
@@ -270,7 +271,8 @@
             "logo": "ekusheytv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ekushey_tv.m3u8",
-				"http://103.141.66.36/bpk-tv/10006/default/manifest.mpd",
+				"https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8",
+				"http://103.141.66.36/bpk-tv/10006/default/index.m3u8",
                 "http://103.205.133.19/hls/ekushey.m3u8"			
 				
             ]
@@ -298,7 +300,7 @@
             "logo": "banglavision.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/bangla_vision.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8",
 				"http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8"
             ]
         },
@@ -308,7 +310,7 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ntv.m3u8",
 				"http://103.141.66.36/bpk-tv/10029/default/index.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8.zeroflix.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8.zeroflix.m3u8"
 				
             ]
         },
@@ -419,7 +421,7 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/btv_bd.m3u8",
                 "http://103.205.133.14/hls/btv.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10330/default/manifest.mpd?=.m3u8"
             ]
         },
@@ -428,9 +430,8 @@
             "logo": "btv_world.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/btv_world.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
-				"https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8"				
             ]
         },
 		{
@@ -438,7 +439,7 @@
             "logo": "sangsad_tv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sangsad_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10036/default/manifest.mpd"
             ]
         },
@@ -447,7 +448,7 @@
             "logo": "nick_bangla.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nick_bangla.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8"				
+                "https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8"				
             ]
         },
 		{
@@ -478,7 +479,7 @@
             "name": "Cheebies Asia",
             "logo": "cheebies_asia.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8"				
+                "https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8"				
             ]
         },
 		{
@@ -598,7 +599,7 @@
             "name": "Jalsha Movies",
             "logo": "jalshamovies.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8"				
+                "https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8"				
             ]
         },
 		{
@@ -613,9 +614,9 @@
             "name": "STAR GOLD HD",
             "logo": "star-gold.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
 				"https://watchindia.net:8443/live/49212/55991/785.ts"				
             ]
         },
@@ -624,8 +625,8 @@
             "logo": "zeecinema.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_cinema.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
 				"http://indtv.online/Zee_Cinema.m3u8",
 				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
 				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8"				
@@ -674,8 +675,8 @@
             "name": "Zee Bollywood",
             "logo": "zee_bollywood.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
 				"http://indtv.online/Zee_Classic.m3u8",
 				"https://watchindia.net:8443/live/49212/55991/822.ts"				
             ]
@@ -822,8 +823,8 @@
             "name": "MASTII",
             "logo": "mastii.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/mastii/chunks.m3u8",				
-				"https://itpolly.iptv.digijadoo.net/live/mastii/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/mastii/chunks.m3u8",				
+				"https://edge01.iptv.digijadoo.net/live/mastii/chunks.m3u8"
             ]
         },
 		{
@@ -839,6 +840,60 @@
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne"
+            ]
+        },
+		{
+            "name": "Nepal TV",
+            "logo": "nepal_tv.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nepal_tv.m3u8",
+                "https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8"
+				
+            ]
+        },
+		{
+            "name": "Nepal Plus",
+            "logo": "nepal_plus.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nepal_plus.m3u8",
+                "https://np.nettvnepal.com.np/pulltest/hd-NtvPlus-1500.stream/chunks.m3u8"
+				
+            ]
+        },
+		{
+            "name": "Nepal Kohalpur",
+            "logo": "nepal_kohalpur.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nepal_kohalpur.m3u8",
+                "https://np.nettvnepal.com.np/pulltest/hd-NTVKOHALPUR.stream/chunks.m3u8"
+				
+            ]
+        },
+		{
+            "name": "Nepal Itahari",
+            "logo": "nepal_itahari.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nepal_itahari.m3u8",
+                "https://np.nettvnepal.com.np/pulltest/ntvithari.stream/chunks.m3u8"
+				
+            ]
+        },
+		{
+            "name": "Nepal kantipur HD",
+            "logo": "nepal_kantipur_hd.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nepal_kantipur_hd.m3u8",
+                "https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8"
+				
+            ]
+        },
+		{
+            "name": "Akaram Mix",
+            "logo": "akaram_mix.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/akaram_mix.m3u8",
+                "http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8"
+				
             ]
         },
 		{
@@ -945,7 +1000,7 @@
             "logo": "zee_bangla.png",
             "url": [
                 "http://z5amshls.akamaized.net/zeebanglahd/playlist.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8",
 				"http://z5amshls.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8"
             ]
         },
@@ -985,7 +1040,7 @@
             "logo": "star_gold2.png",
             "url": [
                 "https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8"
+				"https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8"
             ]
         },
 		{
@@ -1148,7 +1203,7 @@
             "name": "ZEE TV",
             "logo": "zeetv.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
 				"http://indtv.online/Zee_TV_HD.m3u8",
 				"https://watchindia.net:8443/live/49212/55991/1970.ts",
 				"https://watchindia.net:8443/live/49212/55991/1971.ts"
@@ -1158,7 +1213,7 @@
             "name": "MANARANJAN MOVIE",
             "logo": "manaranjan_movie.png",
             "url": [
-				"https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8",
 				"http://indtv.online/Manoranjan_Movies.m3u8",
                 "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8",
 				"https://watchindia.net:8443/live/49212/55991/804.ts"				
@@ -1236,33 +1291,33 @@
             "name": "STAR JALSHA",
             "logo": "starjalsha.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8"
             ]
         },
 		{
             "name": "COLORS BANGLA",
             "logo": "colorsbangla.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8"
             ]
         },
 		{
             "name": "SANGEET BANGLA",
             "logo": "sangeetbangla.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8"
             ]
         },
 		{
             "name": "Aakash Aath",
             "logo": "aakash_aath.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8"
 				
             ]
         },
@@ -1270,7 +1325,7 @@
             "name": "Ruposhi Bangla",
             "logo": "ruposhi_bangla.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8",
 				"http://103.205.133.19/hls/ruposhibangla.m3u8"
 				
             ]
@@ -1279,7 +1334,7 @@
             "name": "Star Bharat",
             "logo": "star_bharat.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8"
 				
             ]
         },
@@ -1287,7 +1342,7 @@
             "name": "Music India",
             "logo": "music_india.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/music_india/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/music_india/chunks.m3u8",
 				"http://103.135.208.14/live/ibox/bd/103.m3u8"
 				
             ]
@@ -1315,7 +1370,7 @@
             "logo": "zing.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zing.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10102/default/index.m3u8"
 				
             ]
@@ -1325,7 +1380,7 @@
             "logo": "anandatv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ananda_tv.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10258/default/index.m3u8"
 				
             ]
@@ -1342,15 +1397,15 @@
             "name": "COLORS HD",
             "logo": "colors.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
             ]
         },
 		{
             "name": "Colors Infinity",
             "logo": "colors-infinity.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8",
 				"http://indtv.online/Colors_Infinity_HD.m3u8"
 				
             ]
@@ -1359,15 +1414,15 @@
             "name": "HUM MASALA",
             "logo": "hum_masala.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8"
             ]
         },
 		{
             "name": "Manoranjan TV",
             "logo": "manoranjan_tv.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8"
 				
             ]
         },
@@ -1403,7 +1458,7 @@
             "name": "TARA BANGLA",
             "logo": "tara_bangla.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8"
             ]
         },
@@ -1425,15 +1480,15 @@
             "name": "Ary Digital",
             "logo": "ary_digital.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8"
             ]
         },
 		{
             "name": "Ary Musik",
             "logo": "ary_musik.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8"
 				
             ]
         },
@@ -1441,15 +1496,15 @@
             "name": "Care World",
             "logo": "care_world.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/care_world/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/care_world/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/care_world/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/care_world/chunks.m3u8"
             ]
         },
 		{
             "name": "MTV Beats",
             "logo": "mtv_beats.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8"
 				
             ]
         },
@@ -1457,7 +1512,7 @@
             "name": "History TV",
             "logo": "history.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8"
 				
             ]
         },
@@ -1465,7 +1520,7 @@
             "name": "Zee Classic",
             "logo": "zee_classic.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8"
 				
             ]
         },
@@ -1474,7 +1529,7 @@
             "logo": "zoom.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zoom.m3u8",
-                "https://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8",
 				"https://watchindia.net:8443/live/49212/55991/842.ts"
 				
             ]
@@ -1483,7 +1538,7 @@
             "name": "NICK",
             "logo": "nick.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8"
 				
             ]
         },
@@ -1491,7 +1546,7 @@
             "name": "PTV World",
             "logo": "ptv_world.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ptv_world/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ptv_world/chunks.m3u8"
 				
             ]
         },
@@ -1541,7 +1596,7 @@
             "name": "PTV Global",
             "logo": "ptv_global.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8"
 				
             ]
         },
@@ -1549,7 +1604,7 @@
             "name": "PTV Home",
             "logo": "ptv_home.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ptv_home/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ptv_home/chunks.m3u8"
 				
             ]
         },
@@ -1557,7 +1612,7 @@
             "name": "Geo News",
             "logo": "geo_news.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/geo_news/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/geo_news/chunks.m3u8",
 				"https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8"
 				
             ]
@@ -1566,7 +1621,7 @@
             "name": "PTV News",
             "logo": "ptv_news.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ptv_news/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ptv_news/chunks.m3u8"
 				
             ]
         },
@@ -1574,7 +1629,7 @@
             "name": "Aaj Tak",
             "logo": "aaj_tak.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/aaj_tak/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/aaj_tak/chunks.m3u8"
 				
             ]
         },
@@ -1582,7 +1637,7 @@
             "name": "Ary QTV",
             "logo": "ary_qtv.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/ary/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/ary/chunks.m3u8"
 				
             ]
         },
@@ -1590,7 +1645,7 @@
             "name": "Dhoom",
             "logo": "dhoom.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8",
 				"http://tv-cdn.ihub.live:8080/Dhoom/tracks-v1a1/mono.m3u8"
 				
@@ -1600,7 +1655,7 @@
             "name": "CNN",
             "logo": "cnn-int.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8"				
+                "https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8"				
             ]
         },
 		{
@@ -1739,7 +1794,7 @@
             "name": "MACAU LOTUS",
             "logo": "lotus-macuo.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8"
 				
             ]
         },
@@ -1747,8 +1802,8 @@
             "name": "BBC WORLD",
             "logo": "bbcnews.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8"
             ]
         },
 		{
@@ -1764,7 +1819,7 @@
             "name": "VHL",
             "logo": "vhl.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8"
 				
             ]
         },
@@ -1774,7 +1829,7 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_world.m3u8",
                 "https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8",
 				"http://103.135.208.14/live/ibox/bd/66.m3u8"
             ]
         },
@@ -1782,15 +1837,15 @@
             "name": "CB ASIA",
             "logo": "cb_asia.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8"
             ]
         },
 		{
             "name": "DW TV",
             "logo": "dwnews.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8",
 				"https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8",
 				"https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8"
             ]
@@ -2062,15 +2117,15 @@
             "name": "TLC",
             "logo": "tlc.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8",
-				"https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8",
+				"https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8"
             ]
         },
 		{
             "name": "BBC LIFE STYLE",
             "logo": "bbc-lifestyle.png",
             "url": [
-                "https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8"
+                "https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8"
 				
             ]
         },
@@ -2111,7 +2166,7 @@
             "name": "ARIRANG",
             "logo": "arirang.png",
             "url": ["https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8",
-			"https://itpolly.iptv.digijadoo.net/live/arirang/chunks.m3u8"
+			"https://edge01.iptv.digijadoo.net/live/arirang/chunks.m3u8"
 			]
         }
     ]
