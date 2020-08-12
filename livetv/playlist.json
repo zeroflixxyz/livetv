@@ -622,7 +622,7 @@
                 "https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/785.ts"				
+				"https://watchindia.net:8443/live/62672/29937/785.ts"				
             ]
         },
 		{
@@ -648,7 +648,7 @@
 				"http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
 				"http://indtv.online/And_Pictures_HD.m3u8",
 				"http://103.205.133.14/hls/andpicture.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/783.ts"
+				"https://watchindia.net:8443/live/62672/29937/783.ts"
             ]
         },
 		{
@@ -656,7 +656,7 @@
             "logo": "and_picture.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_picture.m3u8",
-                "https://watchindia.net:8443/live/39429/01219/818.ts"				
+                "https://watchindia.net:8443/live/62672/29937/818.ts"				
             ]
         },
 		{
@@ -666,7 +666,7 @@
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_tv_hd.m3u8",
                 "http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8",
 				"http://indtv.online/And_TV_HD.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/782.ts"
+				"https://watchindia.net:8443/live/62672/29937/782.ts"
             ]
         },
 		{
@@ -675,7 +675,7 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_flix_hd.m3u8",
                 "http://103.214.202.218:8081/live/andflix-29/chunks.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/2088.ts"
+				"https://watchindia.net:8443/live/62672/29937/2088.ts"
             ]
         },
 		{
@@ -692,7 +692,7 @@
                 "https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8",
 				"http://indtv.online/Zee_Classic.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/822.ts"				
+				"https://watchindia.net:8443/live/62672/29937/822.ts"				
             ]
         },
 		{
@@ -701,7 +701,7 @@
             "url": [
                 "http://tv-cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8",
 				"https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/1969.ts"
+				"https://watchindia.net:8443/live/62672/29937/1969.ts"
             ]
         },
 		{
@@ -710,7 +710,7 @@
             "url": [
 				"http://otv.ftpbd.net/streams/109/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
                 "https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
-				"https://watchindia.net:8443/live/39429/01219/788.ts"
+				"https://watchindia.net:8443/live/62672/29937/788.ts"
 				
             ]
         },
@@ -720,7 +720,7 @@
             "url": [
                 "http://indtv.online/Sony_Max_HD.m3u8",
 				"https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
-				"https://watchindia.net:8443/live/39429/01219/788.ts"				
+				"https://watchindia.net:8443/live/62672/29937/788.ts"				
             ]
         },
 		{
@@ -728,7 +728,7 @@
             "logo": "sony_max2.png",
             "url": [
 				"http://indtv.online/Sony_MAX2.m3u8",
-                "https://watchindia.net:8443/live/39429/01219/2024.ts",
+                "https://watchindia.net:8443/live/62672/29937/2024.ts",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/602"
             ]
         },
@@ -747,7 +747,7 @@
 				"http://indtv.online/Sony_Pix_HD.m3u8",
                 "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
-					"https://watchindia.net:8443/live/39429/01219/2101.ts"
+					"https://watchindia.net:8443/live/62672/29937/2101.ts"
             ]
         },
 		{
@@ -757,7 +757,7 @@
                 "https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8",
 				"http://indtv.online/Sony_Pal.m3u8",
 				"https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
-				"https://watchindia.net:8443/live/39429/01219/812.ts"
+				"https://watchindia.net:8443/live/62672/29937/812.ts"
             ]
         },
 		{
@@ -796,7 +796,7 @@
             "logo": "sony_yay.png",
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
-				"https://watchindia.net:8443/live/39429/01219/2104.ts"
+				"https://watchindia.net:8443/live/62672/29937/2104.ts"
             ]
         },
 		{
@@ -920,7 +920,7 @@
             "url": [
 				"http://indtv.online/0-9-privehd.m3u8",
                 "http://103.214.202.218:8081/live/andprive-28/chunks.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/2103.ts"
+				"https://watchindia.net:8443/live/62672/29937/2103.ts"
 				
             ]
         },
@@ -953,7 +953,7 @@
             "logo": "movies_now.png",
             "url": [
                 "https://timesnow.airtel.tv/live/RN_pull/master.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/2102.ts"
+				"https://watchindia.net:8443/live/62672/29937/2102.ts"
 				
             ]
         },
@@ -986,7 +986,7 @@
             "logo": "discovery_hd.png",
             "url": [
 				"http://indtv.online/Discovery.m3u8",
-                "https://watchindia.net:8443/live/39429/01219/841.ts"
+                "https://watchindia.net:8443/live/62672/29937/841.ts"
 				
             ]
         },
@@ -1004,8 +1004,8 @@
             "name": "Star Plus HD",
             "logo": "starplus.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/1924.ts",
-				"https://watchindia.net:8443/live/39429/01219/1925.ts"
+                "https://watchindia.net:8443/live/62672/29937/1924.ts",
+				"https://watchindia.net:8443/live/62672/29937/1925.ts"
             ]
         },
 		{
@@ -1035,24 +1035,24 @@
             "name": "Star Plus",
             "logo": "starplus.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/1925.ts",
-				"https://watchindia.net:8443/live/39429/01219/1925.ts"
+                "https://watchindia.net:8443/live/62672/29937/1925.ts",
+				"https://watchindia.net:8443/live/62672/29937/1925.ts"
             ]
         },
 		{
             "name": "Star Gold India HD",
             "logo": "star-gold.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/785.ts",
-				"https://watchindia.net:8443/live/39429/01219/785.ts"
+                "https://watchindia.net:8443/live/62672/29937/785.ts",
+				"https://watchindia.net:8443/live/62672/29937/785.ts"
             ]
         },
 		{
             "name": "Star Gold Select HD",
             "logo": "star-gold-select.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/784.ts",
-				"https://watchindia.net:8443/live/39429/01219/784.ts"
+                "https://watchindia.net:8443/live/62672/29937/784.ts",
+				"https://watchindia.net:8443/live/62672/29937/784.ts"
             ]
         },
 		{
@@ -1076,7 +1076,7 @@
             "logo": "starmovies.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_movies_hd.m3u8",
-                "https://watchindia.net:8443/live/39429/01219/2080.ts"		
+                "https://watchindia.net:8443/live/62672/29937/2080.ts"		
             ]
         },
 		{
@@ -1084,8 +1084,8 @@
             "logo": "hbohd.png",
             "url": [
 				"http://indtv.online/HBO_HD.m3u8",
-                "https://watchindia.net:8443/live/39429/01219/2081.ts",
-				"https://watchindia.net:8443/live/39429/01219/2081.ts"
+                "https://watchindia.net:8443/live/62672/29937/2081.ts",
+				"https://watchindia.net:8443/live/62672/29937/2081.ts"
             ]
         },
 		{
@@ -1095,7 +1095,7 @@
                 "http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8",
 				"http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8",
 				"http://indtv.online/Zee_Action.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/821.ts",
+				"https://watchindia.net:8443/live/62672/29937/821.ts",
 				"http://luckonline.eu:8080/PRdAgsQRF5/0117589321/730"
             ]
         },
@@ -1119,32 +1119,32 @@
             "name": "UTV Action",
             "logo": "utv_action.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/805.ts",
-				"https://watchindia.net:8443/live/39429/01219/805.ts"
+                "https://watchindia.net:8443/live/62672/29937/805.ts",
+				"https://watchindia.net:8443/live/62672/29937/805.ts"
             ]
         },
 		{
             "name": "UTV HD",
             "logo": "utv_hd.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/811.ts",
-				"https://watchindia.net:8443/live/39429/01219/811.ts"
+                "https://watchindia.net:8443/live/62672/29937/811.ts",
+				"https://watchindia.net:8443/live/62672/29937/811.ts"
             ]
         },
 		{
             "name": "Zee Anmol",
             "logo": "zee_anmol.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/813.ts",
-				"https://watchindia.net:8443/live/39429/01219/813.ts"
+                "https://watchindia.net:8443/live/62672/29937/813.ts",
+				"https://watchindia.net:8443/live/62672/29937/813.ts"
             ]
         },
 		{
             "name": "Zee Anmol Cinema",
             "logo": "zee_anmol_cinema.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/820.ts",
-				"https://watchindia.net:8443/live/39429/01219/820.ts"
+                "https://watchindia.net:8443/live/62672/29937/820.ts",
+				"https://watchindia.net:8443/live/62672/29937/820.ts"
             ]
         },
 		{
@@ -1156,7 +1156,7 @@
 				"http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8",
 				"http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
 				"http://indtv.online/Zee_Cinema_HD.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/787.ts"
+				"https://watchindia.net:8443/live/62672/29937/787.ts"
             ]
         },
 		{
@@ -1191,16 +1191,16 @@
             "name": "9X Jalwa",
             "logo": "9x_jalwa.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/828.ts",
-				"https://watchindia.net:8443/live/39429/01219/828.ts"
+                "https://watchindia.net:8443/live/62672/29937/828.ts",
+				"https://watchindia.net:8443/live/62672/29937/828.ts"
             ]
         },
 		{
             "name": "9X Jhakaas",
             "logo": "9x_jhakaas.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/926.ts",
-				"https://watchindia.net:8443/live/39429/01219/926.ts"
+                "https://watchindia.net:8443/live/62672/29937/926.ts",
+				"https://watchindia.net:8443/live/62672/29937/926.ts"
             ]
         },
 		{
@@ -1216,7 +1216,7 @@
             "name": "B4U Plus",
             "logo": "b4u_plus.png",
             "url": [
-                "https://watchindia.net:8443/live/39429/01219/823.ts"				
+                "https://watchindia.net:8443/live/62672/29937/823.ts"				
             ]
         },
 		{
@@ -1225,8 +1225,8 @@
             "url": [
                 "https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8",
 				"http://indtv.online/Zee_TV_HD.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/1970.ts",
-				"https://watchindia.net:8443/live/39429/01219/1971.ts"
+				"https://watchindia.net:8443/live/62672/29937/1970.ts",
+				"https://watchindia.net:8443/live/62672/29937/1971.ts"
             ]
         },
 		{
@@ -1236,7 +1236,7 @@
 				"https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8",
 				"http://indtv.online/Manoranjan_Movies.m3u8",
                 "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/804.ts"				
+				"https://watchindia.net:8443/live/62672/29937/804.ts"				
             ]
         },
 		{
@@ -1451,7 +1451,7 @@
             "logo": "ten1hd.png",
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/1756.ts"
+				"https://watchindia.net:8443/live/62672/29937/1756.ts"
             ]
         },
 		{
@@ -1459,7 +1459,7 @@
             "logo": "ten2.png",
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8"	,
-				"https://watchindia.net:8443/live/39429/01219/1757.ts"
+				"https://watchindia.net:8443/live/62672/29937/1757.ts"
             ]
         },
 		{
@@ -1467,7 +1467,7 @@
             "logo": "ten3.png",
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/1758.ts"
+				"https://watchindia.net:8443/live/62672/29937/1758.ts"
             ]
         },
 		{
@@ -1475,7 +1475,7 @@
             "logo": "sony_six.png",
             "url": [
                 "https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne/master.m3u8",
-					"https://watchindia.net:8443/live/39429/01219/1763.ts"
+					"https://watchindia.net:8443/live/62672/29937/1763.ts"
             ]
         },
 		{
@@ -1554,7 +1554,7 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zoom.m3u8",
                 "https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8",
-				"https://watchindia.net:8443/live/39429/01219/842.ts"
+				"https://watchindia.net:8443/live/62672/29937/842.ts"
 				
             ]
         },
