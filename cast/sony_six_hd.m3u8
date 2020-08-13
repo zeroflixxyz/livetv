@@ -1,4 +1,5 @@
 ﻿#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://103.205.133.19/hls/sonysix.m3u8
 http://otv.ftpbd.net/streams/106/index.m3u8
