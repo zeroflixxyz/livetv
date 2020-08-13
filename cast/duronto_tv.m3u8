@@ -3,3 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10226/default/index.m3u8
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8

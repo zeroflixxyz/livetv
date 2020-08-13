@@ -2,3 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+http://103.205.133.14/hls/dbcnews.m3u8
+http://103.205.133.19/hls/dbcnews.m3u8
+http://pioneer.anytv.live:8080/dbc/tracks-v1a1/mono.m3u8

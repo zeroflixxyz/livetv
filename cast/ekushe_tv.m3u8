@@ -3,3 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10006/default/index.m3u8
+http://103.205.133.14/hls/ekushey.m3u8
+http://103.205.133.19/hls/ekushey.m3u8
+http://103.135.208.14/live/ibox/bd/20.m3u8
