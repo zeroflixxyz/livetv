@@ -1116,6 +1116,7 @@
             "logo": "starmovies.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/star_movies_hd.m3u8",
+				"http://45.249.187.238:8081/hls/tsl-8.m3u8",
                 "https://watchindia.net:8443/live/53920/63216/2080.ts"		
             ]
         },

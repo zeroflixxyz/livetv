@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 http://43.230.123.21:8080/live/star-movies.m3u8
 https://watchindia.net:8443/live/15761/90585/2080.ts
