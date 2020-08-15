@@ -23,6 +23,7 @@
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gazi_tv.m3u8",
 				"http://103.141.66.36/bpk-tv/10328/default/index.m3u8",
                 "https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
+				"http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8",
 				"http://pioneer.anytv.live:8080/gazi/index.m3u8"
             ]
         },
@@ -32,7 +33,8 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/maasranga_tv.m3u8",
                 "https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
-				"https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8"
+				"http://103.141.66.36/bpk-tv/10154/default/index.m3u8",
+				"http://45.249.187.238:8081/hls/live6.m3u8"
             ]
         },
 			{
@@ -112,9 +114,8 @@
             "logo": "ekattortv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ekattor_tv.m3u8",
-				"http://tv-cdn.ihub.live:8080/EkattorTV/tracks-v1a1/mono.m3u8",
-                "http://ctgiptv.kitv.live:1935/live/test/test1/11.ts",
-				"http://ctgiptv.kitv.live:1935/live/test/test1/11.ts"
+				"http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8",
+                "http://ctgiptv.kitv.live:1935/live/test/test1/11.ts"				
 				
             ]
         },
@@ -124,9 +125,8 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/nagorik_tv.m3u8",
 				"http://103.141.66.36/bpk-tv/10451/default/index.m3u8",
-                "https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
-				"https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8",
-				"http://45.249.187.238:8081/hls/new16.m3u8"
+				"http://45.249.187.238:8081/hls/new16.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8"				
             ]
         },
 		{
@@ -415,7 +415,8 @@
             "logo": "channel_t1.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/channel_t1.m3u8",
-                "http://128.199.212.160/channelt1/1080/index.m3u8"				
+                "http://128.199.212.160/channelt1/1080/index.m3u8",
+				"http://128.199.212.160/channelt1/1080/index.m3u8"
             ]
         },
 		{
