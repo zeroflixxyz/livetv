@@ -667,12 +667,21 @@
             ]
         },
 		{
+            "name": "9xm",
+            "logo": "9xm.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/9xm.m3u8",
+                "http://103.141.66.36/bpk-tv/10283/default/index.m3u8",
+				"https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8"
+            ]
+        },
+		{
             "name": "ZEE CINEMA",
             "logo": "zeecinema.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_cinema.m3u8",
                 "https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
-				"https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8",
+				"http://103.141.66.36/bpk-tv/10180/default/index.m3u8",
 				"http://indtv.online/Zee_Cinema.m3u8",
 				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
 				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8"				
@@ -697,6 +706,7 @@
             "logo": "and_picture.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_picture.m3u8",
+				"http://103.141.66.36/bpk-tv/10190/default/index.m3u8",
                 "https://watchindia.net:8443/live/46887/80074/818.ts"				
             ]
         },
@@ -706,8 +716,17 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_tv_hd.m3u8",
                 "http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8",
-				"http://indtv.online/And_TV_HD.m3u8",
+				"http://103.214.202.218:8081/live/andtv-27/chunks.m3u8",
+				"http://103.141.66.36/bpk-tv/10182/default/index.m3u8",
 				"https://watchindia.net:8443/live/46887/80074/782.ts"
+            ]
+        },
+		{
+            "name": "& Flix",
+            "logo": "and_flix.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_flix.m3u8",                
+				"http://103.141.66.36/bpk-tv/10304/default/index.m3u8"				
             ]
         },
 		{
@@ -1198,6 +1217,7 @@
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_cinema_hd.m3u8",
                 "http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8",
 				"http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8",
+				"http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282",
 				"http://indtv.online/Zee_Cinema_HD.m3u8",
 				"https://watchindia.net:8443/live/46887/80074/787.ts"
@@ -1226,9 +1246,11 @@
         },
 		{
             "name": "AAJTAK",
-            "logo": "aajtak.png",
+            "logo": "aaj_tak.png",
             "url": [
-                "https://feeds.intoday.in/aajtak/api/master.m3u8"				
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/aajtak.m3u8",
+                "https://feeds.intoday.in/aajtak/api/master.m3u8",
+				"http://103.141.66.36/bpk-tv/10311/default/index.m3u8"
             ]
         },
 		{

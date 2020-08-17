@@ -3,3 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 http://103.205.133.14/hls/andpicture.m3u8
 http://103.205.133.19/hls/andpicture.m3u8
+http://103.141.66.36/bpk-tv/10190/default/index.m3u8

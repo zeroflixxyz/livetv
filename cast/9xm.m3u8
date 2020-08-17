@@ -2,4 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 http://103.205.133.14/hls/9xm.m3u8
-http://103.135.208.14/live/ibox/bd/90.m3u8
+http://103.141.66.36/bpk-tv/10283/default/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
