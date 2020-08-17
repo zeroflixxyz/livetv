@@ -630,6 +630,7 @@
             "name": "AMAR UJALA",
             "logo": "amar_ujala.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/amar_ujala.m3u8",
                 "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8",
 				"https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8"
             ]
@@ -662,7 +663,7 @@
             "url": [
                 "https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8",
-				"https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8",
+				"http://103.141.66.36/bpk-tv/10476/default/index.m3u8",
 				"https://watchindia.net:8443/live/46887/80074/785.ts"				
             ]
         },
@@ -865,7 +866,7 @@
             "name": "BFLIX",
             "logo": "bflix.png",
             "url": [
-                "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8",
+                "https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/bflix.m3u8",
 				"https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"
             ]
         },
@@ -873,7 +874,8 @@
             "name": "BFLIX Movies",
             "logo": "bflix_movies.png",
             "url": [
-                "http://indtv.online/Bflix_Movies.m3u8"				
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/bflix_movies.m3u8",
+                "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"				
             ]
         },
 		{
@@ -903,7 +905,9 @@
             "name": "MASTII",
             "logo": "mastii.png",
             "url": [
-                "https://edge01.iptv.digijadoo.net/live/mastii/chunks.m3u8",				
+                "https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/mastii.m3u8",
+				"http://103.141.66.36/bpk-tv/10210/default/index.m3u8",
+				"http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8",
 				"https://edge01.iptv.digijadoo.net/live/mastii/chunks.m3u8"
             ]
         },
@@ -1057,8 +1061,8 @@
             "logo": "animal_planet.png",
             "url": [
                 "http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8",
-				"http://indtv.online/Animal_Planet_HD.m3u8",
-				"http://indtv.online/Animal_Planet_Hindi.m3u8"
+				"http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8",
+				"http://103.205.133.42:1935/live/animal_planet_hd_720/index.m3u8"
 				
             ]
         },
@@ -1068,6 +1072,14 @@
             "url": [
                 "https://watchindia.net:8443/live/46887/80074/1924.ts",
 				"https://watchindia.net:8443/live/46887/80074/1925.ts"
+            ]
+        },
+		{
+            "name": "Zee News",
+            "logo": "zee_news.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_news.m3u8",
+                "http://103.141.66.36/bpk-tv/10285/default/index.m3u8"				
             ]
         },
 		{
@@ -1250,6 +1262,8 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/aajtak.m3u8",
                 "https://feeds.intoday.in/aajtak/api/master.m3u8",
+				"https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+				"http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8",
 				"http://103.141.66.36/bpk-tv/10311/default/index.m3u8"
             ]
         },
@@ -1485,8 +1499,9 @@
             "name": "COLORS HD",
             "logo": "colors.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/colors_hd.m3u8",
                 "https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
-				"https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
+				"http://103.141.66.36/bpk-tv/10189/default/index.m3u8"
             ]
         },
 		{
@@ -1570,6 +1585,14 @@
             ]
         },
 		{
+            "name": "Ary",
+            "logo": "ary_digital.png",
+            "url": [
+                "https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ary.m3u8",
+				"http://103.141.66.36/bpk-tv/10091/default/index.m3u8"
+            ]
+        },
+		{
             "name": "Ary Digital",
             "logo": "ary_digital.png",
             "url": [
@@ -1605,7 +1628,19 @@
             "name": "History TV",
             "logo": "history.png",
             "url": [
-                "https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8"
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/history.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8",
+				"http://103.141.66.36/bpk-tv/10479/default/index.m3u8"
+				
+            ]
+        },
+		{
+            "name": "History HD",
+            "logo": "history_hd.png",
+            "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/history_hd.m3u8",
+                "https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8",
+				"http://103.141.66.36/bpk-tv/10479/default/index.m3u8"
 				
             ]
         },
@@ -1783,6 +1818,15 @@
             ]
         },
 		{
+            "name": "Food Food",
+            "logo": "food_food.png",
+            "url": [
+                "https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/food_food.m3u8",
+				"http://103.141.66.36/bpk-tv/10014/default/index.m3u8"
+				
+            ]
+        },
+		{
             "name": "K PLUS",
             "logo": "kplus.png",
             "url": [
@@ -1794,6 +1838,7 @@
             "name": "MIDNITE FASHION",
             "logo": "fashiontv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/fashion_tv_midnight.m3u8",
                 "http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
 				"http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8"
             ]
@@ -1802,6 +1847,7 @@
             "name": "FASHION TV HD",
             "logo": "fashiontv.png",
             "url": [
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/fashion_tv_hd.m3u8",
                 "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8",
 				"https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
 				"http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8"

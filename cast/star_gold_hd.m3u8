@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://103.141.66.36/bpk-tv/10476/default/index.m3u8
 http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8

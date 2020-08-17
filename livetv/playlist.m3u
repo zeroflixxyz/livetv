@@ -188,6 +188,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/colors_bangla_h
 #EXTINF:-1 tvg-name="Sangeet Bangla" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/sangeet_bangla.png",Sangeet Bangla
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sangeet_bangla.m3u8
 
+#EXTINF:-1 tvg-name="Amar Ujala" tvg-id="General" group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/amar_ujala.png",Amar Ujala
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/amar_ujala.m3u8
+
 #EXTINF:-1 tvg-name="Colors HD" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/colors_hd.png",Colors HD
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/colors_hd.m3u8
 
@@ -260,6 +263,24 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/shemaroo_kids.m
 #EXTINF:-1 tvg-name="AajTak" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/aaj_tak.png",AajTak
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/aaj_tak.m3u8
 
+#EXTINF:-1 tvg-name="Mastii" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/mastii.png",Mastii
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/mastii.m3u8
+
+#EXTINF:-1 tvg-name="BFlix" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/bflix.png",BFlix
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/bflix.m3u8
+
+#EXTINF:-1 tvg-name="BFlix Movies" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/bflix_movies.png",BFlix Movies
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/bflix_movies.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/animal_planet.png",Animal Planet
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/animal_planet.m3u8
+
+#EXTINF:-1 tvg-name="Zee News" tvg-id="General" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/zee_news.png",Zee News
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_news.m3u8
+
+#EXTINF:-1 tvg-name="Ary" tvg-id="General" group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/ary_digital.png",Ary
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/ary.m3u8
+
 #EXTINF:-1 tvg-name="Filmax" tvg-id="General" group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/filmax.png",Filmax
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/filmax.m3u8
 
@@ -271,6 +292,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/8xm_hd.m3u8
 
 #EXTINF:-1 tvg-name="Geo News" tvg-id="General" group-title="Urdu" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/geo_news.png",Geo News
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/geo_news.m3u8
+
+#EXTINF:-1 tvg-name="Food Food" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/food_food.png",Food Food
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/food_food.m3u8
 
 #EXTINF:-1 tvg-name="& Flix" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/and_flix.png",& Flix
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_flix.m3u8
@@ -316,6 +340,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gusto_tv.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/fashion_tv.png",Fashion TV
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/fashion_tv.m3u8
+
+#EXTINF:-1 tvg-name="Fashion TV HD" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/fashion_tv_hd.png",Fashion TV HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/fashion_tv_hd.m3u8
 
 #EXTINF:-1 tvg-name="Dil Bechara" tvg-id="General" group-title="Movies" tvg-logo="https://www.india.com/wp-content/uploads/2020/06/dil-bechara.jpg",Dil Bechara
 https://zerodirect.herokuapp.com/file/0a40d2dd96be45ee01160c0596cf92b4e68276430e2ff1f496217bb4dba666f228403dc47e6c38bac6684e5ac32f0f4b560cb654dc9839d9c9145cfdf60a3dabSygzeMXL8cF7_ZUmvA5F5DAa_EfgMYw4GfT1IiIjeHY3eFPXQciHp39NhtwAv2S5q_xAxM3jCcw3NNcoQ3ZDqQ--?dl=3
