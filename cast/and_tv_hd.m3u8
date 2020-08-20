@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 http://103.141.66.36/bpk-tv/10028/default/index.m3u8
-http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+http://45.249.187.238:8081/hls/tsl-6.m3u8
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 http://z5amshls.akamaized.net/andtvsd/tracks-v1a1/playlist.m3u8
