@@ -809,6 +809,7 @@
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sony_pix.m3u8",
 				"http://103.205.133.14/hls/sonypix.m3u8",
+				"http://103.205.133.19/hls/sonypix.m3u8",
                 "https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 				"https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne",
 					"https://watchindia.net:8443/live/60298/25017/2101.ts"
@@ -1053,7 +1054,8 @@
             "name": "Discovery HD",
             "logo": "discovery_hd.png",
             "url": [
-				"http://indtv.online/Discovery.m3u8",
+				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/discovery.m3u8",
+				"https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8",
                 "https://watchindia.net:8443/live/60298/25017/841.ts"
 				
             ]
@@ -1062,9 +1064,9 @@
             "name": "Animal Planet",
             "logo": "animal_planet.png",
             "url": [
-                "http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8",
+                "https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/animal_planet.m3u8",
 				"http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8",
-				"http://103.205.133.42:1935/live/animal_planet_hd_720/index.m3u8"
+				"https://streamitv.multitvsolution.in/idvo/animalplanethindi_540p/index.m3u8"
 				
             ]
         },
