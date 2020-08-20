@@ -296,6 +296,9 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/geo_news.m3u8
 #EXTINF:-1 tvg-name="Zee Cafe" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/zee_cafe.png",Zee Cafe
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/zee_cafe.m3u8
 
+#EXTINF:-1 tvg-name="UTV Action" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/utv_action.png",UTV Action
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/utv_action.m3u8
+
 #EXTINF:-1 tvg-name="Food Food" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/food_food.png",Food Food
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/food_food.m3u8
 
