@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 http://103.205.133.42:1935/live/animal_planet_hd_720/index.m3u8
