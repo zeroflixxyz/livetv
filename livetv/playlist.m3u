@@ -317,6 +317,12 @@ https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_flix.m3u8
 #EXTINF:-1 tvg-name="& Flix HD" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/and_flix_hd.png",& Flix HD
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/and_flix_hd.m3u8
 
+#EXTINF:-1 tvg-name="HBO" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/hbo_hd.png",HBO
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo.m3u8
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/hbo_hd.png",HBO HD
+https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/hbo_hd.m3u8
+
 #EXTINF:-1 tvg-name="Sony Pix" tvg-id="General" group-title="English" tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/sony_pix.png",Sony Pix
 https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/sony_pix.m3u8
 
