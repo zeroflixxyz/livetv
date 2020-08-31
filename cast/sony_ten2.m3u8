@@ -1,4 +1,5 @@
 ﻿#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://103.84.253.5/live/fastfeed1006/index.m3u8
 https://watchindia.net:8443/live/40695/67755/1757.m3u8
