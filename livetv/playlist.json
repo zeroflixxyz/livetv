@@ -21,6 +21,7 @@
             "logo": "gtv.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/gazi_tv.m3u8",
+		    	"http://103.102.136.106:8080/cmcltv/gtv_th.m3u8",
 				"http://45.249.187.238:8081/hls/live5.m3u8",
 				"http://103.141.66.36/bpk-tv/10328/default/index.m3u8",
                 "http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8",
@@ -33,6 +34,8 @@
             "logo": "maasranga.png",
             "url": [
 				"https://raw.githubusercontent.com/zeroflixxyz/livetv/master/cast/maasranga_tv.m3u8",
+				"http://103.153.175.254:8080/hls/stream20.m3u8",
+				"http://freeiptv.thunderbd.com:25461/live/free/roarzone/51.m3u8",
 				"http://45.249.187.238:8081/hls/live6.m3u8",
                 "http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8",
 				"http://103.141.66.36/bpk-tv/10154/default/index.m3u8",
